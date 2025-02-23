@@ -19,13 +19,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://steamuserimages-a.akamaihd.net/ugc/2342503777988066081/CF312A15DBFD3A3BC36BD35C6DC5DE045E9E7C56/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=simaocampanicodev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img height="240" src="https://steamuserimages-a.akamaihd.net/ugc/2342503777988066081/CF312A15DBFD3A3BC36BD35C6DC5DE045E9E7C56/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"  />
 </div>
 
 ###
