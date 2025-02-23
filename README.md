@@ -4,7 +4,6 @@
 
 <p align="left">Known for game development, I think?</p>
 
-
 - 🔭 I’m currently working on [Wreckapan](https://github.com/DinisB/Wreckapan)
 ###
 
@@ -20,7 +19,7 @@
 
 ###
 
-<img align="right" height="180" src="https://steamuserimages-a.akamaihd.net/ugc/2342503777988066081/CF312A15DBFD3A3BC36BD35C6DC5DE045E9E7C56/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"  />
+<img align="right" height="250" src="https://steamuserimages-a.akamaihd.net/ugc/2342503777988066081/CF312A15DBFD3A3BC36BD35C6DC5DE045E9E7C56/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"  />
 
 ###
 
@@ -38,3 +37,5 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
+
+###
