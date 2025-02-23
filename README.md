@@ -1,8 +1,6 @@
 <h2 align="left">Wassup 👋, I'm Txger</h2>
-
+<h3 align="left">Known for game development, I think?</h3>
 ###
-
-<p align="left">Known for game development, I think?</p>
 
 - 🔭 I’m currently working on [Wreckapan](https://github.com/DinisB/Wreckapan)
 
