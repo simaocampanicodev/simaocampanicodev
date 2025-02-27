@@ -1,7 +1,7 @@
 <h2 align="left">Wassup 👋, I'm Txger</h2>
 <h3 align="left">Known for game development, I think?</h3>
 
-- 🔭 I’m currently working on [Wreckapan](https://github.com/DinisB/Wreckapan)
+- 🔭 I’m currently working on [Insomnia](https://github.com/simaocampanicodev/Insomnia)
 
 ###
 
