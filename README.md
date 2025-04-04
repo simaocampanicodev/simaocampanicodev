@@ -18,7 +18,7 @@
 ###
 
 <div align="center">
-  <img height="240" src="https://steamuserimages-a.akamaihd.net/ugc/2342503777988066081/CF312A15DBFD3A3BC36BD35C6DC5DE045E9E7C56/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"  />
+  <img height="240" src="https://www.icegif.com/wp-content/uploads/2024/04/solo-leveling-icegif-4.gif"/>
 </div>
 
 ###
