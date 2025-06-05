@@ -1,7 +1,7 @@
 <h2 align="left">Wassup 👋, I'm Txger</h2>
 <h3 align="left">Known for game development, I think?</h3>
 
-- 🔭 I’m currently working on [Mayhem](https://github.com/simaocampanicodev/Mayhem)
+- 🔭 I’m currently working on [Throne Seeker](https://github.com/simaocampanicodev/ThroneSeeker)
 
 ###
 
