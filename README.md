@@ -8,7 +8,7 @@
 ###
 
 <div align="center">
-  <img height="240" src="https://steamuserimages-a.akamaihd.net/ugc/2342503777988066081/CF312A15DBFD3A3BC36BD35C6DC5DE045E9E7C56/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"/>
+  <img height="240" src="https://i.pinimg.com/originals/50/6e/9b/506e9b48b067d33ba3e6c949e6e94ef6.gif&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"/>
 </div>
 
 ###
