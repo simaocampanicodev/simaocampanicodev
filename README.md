@@ -8,7 +8,7 @@
 ###
 
 <div align="center">
-  <img height="240" src="https://i.pinimg.com/originals/50/6e/9b/506e9b48b067d33ba3e6c949e6e94ef6.gif&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"/>
+  <img height="240" src="https://i.pinimg.com/originals/50/6e/9b/506e9b48b067d33ba3e6c949e6e94ef6.gif"/>
 </div>
 
 ###
