@@ -1,14 +1,27 @@
-<h2 align="left">Wassup 👋, I'm Txger</h2>
-<h3 align="left">Known for game development, I think?</h3>
+# Projects
 
-- 🔭 I’m currently working on [vbolt](https://github.com/simaocampanicodev/vbolt)
+- **VBolt** - Hub ibérica de Valorant, junte 10 pessoas e jogue um custom 5v5 com mais emoção, comunicação, tudo junto num ambiente simplista. [vbolt](https://vbolt.vercel.app)
+- **Mayhem** - Jogo 2D sidescroller, trabalhe de dia e lute de noite num ambiente totalmente inspirado no filme _Fight Club_. [mayhem](https://simaocampanico.itch.io/mayhem)
 
-###
+---
 
-###
+## Simão Campaniço (@TxgerDev)
+**Videogames at Lusófona University**  
+📍 Lisbon, Portugal  
+🌐 [Still under development](https://txger.vercel.app)  
+📧 [in/simaocampanico](https://linkedin.com/in/simaocampanico)  
+🐙 [github.com/SimaoCampanicoDev](https://github.com/simaocampanicodev)
 
-<div align="center">
-  <img height="240" src="https://i.pinimg.com/originals/50/6e/9b/506e9b48b067d33ba3e6c949e6e94ef6.gif"/>
-</div>
+---
 
-###
+### 🛠 Tech Stack
+```
+Languages: TypeScript, C#, Python
+Frameworks: React, Next.js, .NET
+OS: Windows 10
+IDE: VS Code
+```
+
+**✉️ Contact:** [simaocampanico.dev@gmail.com](mailto:simaocampanico.dev@gmail.com) | **📢 Follow:** [@SimaoCampanicoDev](https://github.com/simaocampanicodev)
+
+---
