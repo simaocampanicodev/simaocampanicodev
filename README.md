@@ -1,7 +1,7 @@
 # Projects
 
-- **VBolt** - Hub ibérica de Valorant, junte 10 pessoas e jogue um custom 5v5 com mais emoção, comunicação, tudo junto num ambiente simplista. [vbolt](https://vbolt.vercel.app)
-- **Mayhem** - Jogo 2D sidescroller, trabalhe de dia e lute de noite num ambiente totalmente inspirado no filme _Fight Club_. [mayhem](https://simaocampanico.itch.io/mayhem)
+- **VBolt** - Hub ibérica de Valorant, junte 10 pessoas e jogue um custom 5v5 com mais emoção, comunicação, tudo junto num ambiente simplista. [(vbolt.site)](https://vbolt.vercel.app)
+- **Mayhem** - Jogo 2D sidescroller, trabalhe de dia e lute de noite num ambiente totalmente inspirado no filme _Fight Club_. [(itch.mayhem)](https://simaocampanico.itch.io/mayhem)
 
 ---
 
