@@ -22,6 +22,6 @@ OS: Windows 10
 IDE: VS Code
 ```
 
-**✉️ Contact:** [simaocampanico.dev@gmail.com](mailto:simaocampanico.dev@gmail.com) | **📢 Follow:** [@SimaoCampanicoDev](https://github.com/simaocampanicodev)
+**✉️ Contact:** [simaocampanico.dev@gmail.com](mailto:simaocampanico.dev@gmail.com) | **📢 Follow:** [@TxgerDev](https://x.com/txgerdev)
 
 ---
