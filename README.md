@@ -16,7 +16,7 @@
 
 ### 🛠 Tech Stack
 ```
-Languages: TypeScript, C#, Python
+Languages: C#, TypeScript
 Frameworks: React, Next.js, .NET
 OS: Windows 10
 IDE: VS Code
