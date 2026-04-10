@@ -101,7 +101,7 @@ One mechanic, one commit, one sleepless playtest session at a time.
         <img src="https://img.shields.io/badge/VBolt-1C2B3A?style=for-the-badge&logo=valorant&logoColor=C8D0D8" alt="VBolt"/>
       </a>
       <br/>
-      <sub>Iberian Valorant hub - gather 10 players and run a custom competitive 5v5.</sub>
+      <sub>Iberian Valorant hub - gather 10 players and run a custom competitive 5v5 with matchmaking.</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://simaocampanico.itch.io/mayhem">
