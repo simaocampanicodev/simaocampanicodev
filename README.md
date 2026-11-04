@@ -20,8 +20,6 @@ I'm **Simão**, a **Videogames student at Lusófona University**. I go by **@Txg
 
 <img src="assets/secao-4.svg" width="100%" alt="四 PULSE">
 
-<img src="assets/pulso.svg" width="100%" alt="Contribution stats and calendar">
-
 <br>
 
 <img src="assets/fecho.svg" width="100%" alt="死を恐れるな。ただ、より良くなれ。 Don't fear death. Just get better.">
