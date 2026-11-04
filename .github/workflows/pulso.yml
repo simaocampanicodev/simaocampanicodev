@@ -1,0 +1,34 @@
+name: pulso
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "pulso/**"
+      - ".github/workflows/pulso.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  pulso:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm i --no-save opentype.js@1.3.4
+      - run: node pulso/pulso.mjs
+        env:
+          GH_TOKEN: ${{ secrets.PULSO_TOKEN || secrets.GITHUB_TOKEN }}
+          LOGIN: ${{ github.repository_owner }}
+      - name: Guardar
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/pulso.svg
+          git diff --cached --quiet || (git commit -m "pulso: update stats" && git push)
