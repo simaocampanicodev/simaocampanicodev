@@ -18,8 +18,6 @@ I'm **Simão**, a **Videogames student at Lusófona University**. I go by **@Txg
   <img src="https://skillicons.dev/icons?i=cs,ts,js,react,nextjs,dotnet,unity,vite,supabase,git,github,visualstudio,vercel,windows&perline=14" alt="C#, TypeScript, JavaScript, React, Next.js, .NET, Unity, Vite, Supabase, Git, GitHub, Visual Studio, Vercel, Windows">
 </p>
 
-<img src="assets/secao-4.svg" width="100%" alt="四 PULSE">
-
 <br>
 
 <img src="assets/fecho.svg" width="100%" alt="死を恐れるな。ただ、より良くなれ。 Don't fear death. Just get better.">
